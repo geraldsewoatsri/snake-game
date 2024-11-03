@@ -20,10 +20,7 @@ Python 3.11
 turtle module (standard with Python)
 
 **Setup**
-Clone the repository and run:
-
-bash
-python snake_game.py
+Clone the repository and run: python snake_game.py
 
 
 
